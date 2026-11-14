@@ -1,4 +1,4 @@
-# Pruneyard Cabinets: layout v2 (John's version, revision 1 applied)
+# Pruneyard Cabinets: option A, dark (v2.1, John)
 
 This is a static HTML/CSS layout for the Pruneyard Cabinets woodshop site, the custom cabinetry brand of Parfett Construction Inc. It follows the Website Brief and the 10-page sitemap linked on the Podio project entry.
 
@@ -19,7 +19,7 @@ This is a static HTML/CSS layout for the Pruneyard Cabinets woodshop site, the c
 Revision 1 changes:
 
 - Fixed contrast across every page: darker image overlays, a dark glass card behind the hero copy, lighter eyebrows on photos and darker muted text.
-- Replaced the single marquee with two slanted ribbons that cross: cream text on oak, and light-oak text on black. They scroll in opposite directions and skew with scroll speed.
+- Replaced the marquee with a row of three service cards (photo, name and arrow) on Home, About and the three service pages. The client didn't like the slanted ribbons, so they were removed.
 - Cut the white space: tighter section padding, image columns that stretch to fill their sections, and new sections added.
 - Made the footer wordmark readable: a full-colour oak gradient.
 - Added JM Lara-style features:
